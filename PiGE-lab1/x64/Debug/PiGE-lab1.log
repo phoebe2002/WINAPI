@@ -1,0 +1,6 @@
+﻿  bouncy.cpp
+C:\Users\tsits\source\repos\PiGE-lab1\PiGE-lab1\bouncy.cpp(310,39): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\tsits\source\repos\PiGE-lab1\PiGE-lab1\bouncy.cpp(331,42): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  main.cpp
+  Generating Code...
+  PiGE-lab1.vcxproj -> C:\Users\tsits\source\repos\PiGE-lab1\x64\Debug\PiGE-lab1.exe
